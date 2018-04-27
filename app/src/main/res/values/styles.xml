@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
+
+    <style name='Theme.Base' parent="AppTheme">
+        <item name="colorPrimary">@color/PrimaryBackground</item>
+        <item name="colorPrimaryDark">@color/SecondaryBackgronundColor</item>
+        <item name="colorAccent">@color/ColorBackgroundAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/BackgroundColor</item>
+    </style>
+
+    <style name="Theme.Movie" parent="Theme.Base"></style>
+
+    <style name="ActionBarThemeOverlay" parent="">
+        <item name="android:textColorPrimary">@color/PrimaryTextColor</item>
+        <item name="colorControlHighlight">@color/BackgroundColor</item>
+        <item name="android:actionMenuTextColor">@color/PrimaryTextColor</item>
+        <item name="android:textColorSecondary">@color/PrimaryTextColor</item>
+        <item name="android:background">@color/PrimaryBackground</item>
+    </style>
+
+    <style name="ActionBar.TitleText" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/PrimaryTextColor</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Theme.Movie.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="Theme.Movie.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ashgeek.boxoffice"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher_movie"
+        android:label="@string/welcome_label"
+        android:theme="@style/Theme.Movie" >
+        <activity android:name="com.ashgeek.boxoffice.MainActivity" >
+            <intent-filter android:label="@string/app_name" >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.ashgeek.boxoffice.LaunchActivity"
+            android:label="@string/title_activity_launch"
+            android:parentActivityName="com.ashgeek.boxoffice.MainActivity"
+            android:theme="@style/Theme.Movie" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ashgeek.boxoffice.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.ashgeek.boxoffice.ViewMovieDetailsActivity"
+            android:label="@string/title_activity_view_movie_details"
+            android:parentActivityName="com.ashgeek.boxoffice.MainActivity"
+            android:theme="@style/Theme.Movie" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ashgeek.boxoffice.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.ashgeek.boxoffice.AllMoviesActivity"
+            android:label="@string/title_activity_all_movies"
+            android:parentActivityName="com.ashgeek.boxoffice.MainActivity"
+            android:theme="@style/Theme.Movie" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ashgeek.boxoffice.MainActivity" />
+        </activity>
+        <activity
+            android:name="android.support.v7.widget.TestActivity"
+            android:label="RecyclerViewTestActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aswathi\Desktop\backp\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_60733bd55e6981b3b7c5b68d126145077ddec00d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aswathi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.5.3\ade455ede4797ed450ca6a56e589a81278fc8f45\jackson-annotations-2.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ade455ede4797ed450ca6a56e589a81278fc8f45">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.5.3_1c53709d7ea8d3e70602048334239f6373b78ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aswathi\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_7c909240084e09aeee5ed0d77b17ac2ae82c9a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_ca1c747248ca20ef0accb430e6b2ca427d2e2d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aswathi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.5.3\a8b8a6dfc8a17890e4c7ff8aed810763d265b68b\jackson-core-2.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a8b8a6dfc8a17890e4c7ff8aed810763d265b68b">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\jackson-core-2.5.3_5ec2888048b992a3f3b8a14fa515495cdd66bf51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_1320aa60a4d989459b6ee1813c9e45c1434c63af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_55e506cc9fd33bfbb6567a22ca4e3cc4b80a64dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aswathi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.5.3\c37875ff66127d93e5f672708cb2dcc14c8232ab\jackson-databind-2.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c37875ff66127d93e5f672708cb2dcc14c8232ab">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\jackson-databind-2.5.3_1db6d25486db1ffc200da51140c0df071a10417b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_5e9a374286b53f1b3d2a36c67d674fcefb152cd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\MyApplication\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.1.1_3c2b176a3ba2014203d9bc583d21ee8a76ad159b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\work\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.1.1_e0a2d91bf8042e3de46e8ad209562d430dc0cfdc.jar" />
+    </item>
+
+</items>

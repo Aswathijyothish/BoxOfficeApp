@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Box office</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_search">Search Activity</string>
+    <string name="search_menu">Search</string>
+    <string name="searchable_label">Search Query</string>
+    <string name="searchable_hint">Search Movies</string>
+    <string name="filter_string">View All Movies</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+    <string name="welcome_label">Top 10 Movies</string>
+    <string name="title_activity_view_movie_details">Movie Details</string>
+    <string name="title_activity_all_movies">All Movies</string>
+</resources>
